@@ -16,3 +16,5 @@
 기간 : 12/01 ~ 12/08
 
 - https://docs.google.com/presentation/d/1BOWAjOkMm0T3CBz2ZsBB3VP0TaOHA17jry4ksIGAV_E/edit?usp=sharing
+
+4. [DB설계]
