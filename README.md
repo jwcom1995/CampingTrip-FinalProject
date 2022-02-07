@@ -19,3 +19,5 @@
 
 4. [DB설계]
 - https://www.erdcloud.com/d/aFtn6sTypiSpdJh9C
+
+5. [기능구현]
