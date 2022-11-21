@@ -17,7 +17,7 @@
 <ul>
   <li><b>담당 파트</b> : 캠핑지 등록·수정·삭제, 캠핑지 조건부 검색, 캠핑지 예약·결제, 리뷰 등록·수정·삭제</li>
   <li>Youtube를 통해 시연영상을 확인할 수 있습니다.</li>
-  <li>https://youtu.be/3iIlczH5HrI</li>
+  <li><a href="https://youtu.be/3iIlczH5HrI">바로가기></a></li>
   ![image](https://user-images.githubusercontent.com/87286684/202954712-1cfbc8f8-dad5-4c70-8ac4-700e52b75a7e.png)
   ![image](https://user-images.githubusercontent.com/87286684/202954762-365b066b-46aa-4a60-9c97-2b0dec5ffca2.png)
   ![image](https://user-images.githubusercontent.com/87286684/202954913-b2d69db6-8d93-40cb-807f-80c3f01b4e2f.png)
