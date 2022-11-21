@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/87286684/202951488-2b89aee8-a2ca-4e92-9511-1cb09d218a56.png)
 ![image](https://user-images.githubusercontent.com/87286684/202951510-ac4aca82-dab4-417d-8196-2a1be676d4cb.png)
 ![image](https://user-images.githubusercontent.com/87286684/202951540-d50045cb-55a5-4555-98b4-bb5e51f47882.png)
-![image](https://user-images.githubusercontent.com/87286684/202954233-569507eb-c414-4aef-8b59-ba09e8ee1a7f.png)
+![image](https://user-images.githubusercontent.com/87286684/202956684-a1624855-31a4-400d-b876-628e9971c781.png)
 
 <h2>구성원 및 역할</h2>
 <ul> 
